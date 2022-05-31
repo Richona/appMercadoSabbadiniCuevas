@@ -36,6 +36,6 @@ switch (accion) {
         break;
 }
 
-console.log(4444)
+console.log('vamoo italia xd')
 
 console.log("otro console");
