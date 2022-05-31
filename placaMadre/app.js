@@ -35,3 +35,5 @@ switch (accion) {
     default:
         break;
 }
+
+console.log(4444)
