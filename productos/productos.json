@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1,
+      "marca": "ledesma",
+      "categoria": "azucar",
+      "precio": 20,
+      "peso": [
+         1,
+         "kg"
+      ],
+      "stock": true,
+      "cantidad": 20
+   },
+   {
+      "id": 2,
+      "marca": "Gallo de oro",
+      "categoria": "arroz",
+      "precio": 50,
+      "peso": [
+         1,
+         "kg"
+      ],
+      "stock": true,
+      "cantidad": 20
+   },
+   {
+      "id": 3,
+      "marca": "Rosamonte",
+      "categoria": "yerba",
+      "precio": 100,
+      "peso": [
+         1,
+         "kg"
+      ],
+      "stock": true,
+      "cantidad": 30
+   }
+]
