@@ -37,3 +37,5 @@ switch (accion) {
 }
 
 console.log(4444)
+
+console.log("otro console");
