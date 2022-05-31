@@ -36,6 +36,6 @@ switch (accion) {
         break;
 }
 
-console.log(4430)
+console.log(34)
 
 console.log("otro console");
